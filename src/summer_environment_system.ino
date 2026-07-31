@@ -18,8 +18,8 @@ Servo servo; // 서보 모터 객체 생성
 #define SERVO_PIN D1 // 서보 모터 핀 (GPIO5)
 
 // WiFi 설정
-const char* ssid = "Tear"; // 자신의 SSID로 변경
-const char* password = "kangwonseok"; // 자신의 비밀번호로 변경
+const char* ssid = ""; // 자신의 SSID로 변경
+const char* password = ""; // 자신의 비밀번호로 변경
 
 WiFiServer server(80);
 

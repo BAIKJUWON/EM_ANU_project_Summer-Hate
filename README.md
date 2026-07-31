@@ -103,7 +103,7 @@ if (temp >= 30 && humi >= 70)
 ## 시제품 구성
 
 <p align="center">
-  <img src="docs/images/project-result.jpg" alt="온습도 관리 시스템 전체 시제품" width="850">
+  <img src="docs/images/project-result1.jpg" alt="온습도 관리 시스템 전체 시제품" width="850">
 </p>
 
 시제품은 다음 요소로 구성됩니다.
@@ -117,7 +117,7 @@ if (temp >= 30 && humi >= 70)
 - 창문 모형
 - 스마트폰 웹 브라우저
 
-발표자료의 시연 사진에서는 스마트폰 웹페이지에서 온도, 습도, 모터 상태를 확인하고 서보모터와 모터를 제어하는 모습을 확인할 수 있습니다. :contentReference[oaicite:3]{index=3}
+발표자료의 시연 사진에서는 스마트폰 웹페이지에서 온도, 습도, 모터 상태를 확인하고 서보모터와 모터를 제어하는 모습을 확인할 수 있습니다. 
 
 ---
 

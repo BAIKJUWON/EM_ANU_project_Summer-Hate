@@ -3,7 +3,7 @@
 > ESP8266과 DHT11 온습도 센서를 이용하여 실내 환경을 확인하고, 웹페이지에서 환기용 모터와 창문 모형을 제어하는 피지컬컴퓨팅 프로젝트입니다.
 
 <p align="center">
-  <img src="docs/images/project-result.jpg" alt="ESP8266 여름철 온습도 관리 시스템 시제품" width="850">
+  <img src="docs/images/project-result.png" alt="ESP8266 여름철 온습도 관리 시스템 시제품" width="850">
 </p>
 
 ---
@@ -103,7 +103,7 @@ if (temp >= 30 && humi >= 70)
 ## 시제품 구성
 
 <p align="center">
-  <img src="docs/images/project-result1.jpg" alt="온습도 관리 시스템 전체 시제품" width="850">
+  <img src="docs/images/project-result1.png" alt="온습도 관리 시스템 전체 시제품" width="850">
 </p>
 
 시제품은 다음 요소로 구성됩니다.
@@ -223,7 +223,9 @@ flowchart TD
 ## 사용 기술
 
 ### 하드웨어
-
+<p align="center">
+  <img src="docs/images/project-result1.png" alt="하드웨어" width="850">
+</p>
 | 부품 | 역할 |
 |---|---|
 | ESP8266 | 무선망 연결 및 웹 서버 운영 |
@@ -237,7 +239,9 @@ flowchart TD
 발표자료에서도 온습도 센서, 서보모터, 직류모터, ESP8266을 주요 부품으로 제시하고 있습니다. 
 
 ### 소프트웨어
-
+<p align="center">
+  <img src="docs/images/app.png" alt="온습도 관리 시스템 전체 시제품" width="850">
+</p>
 - 아두이노 통합 개발 환경
 - 아두이노 기반 C/C++
 - ESP8266 무선 통신
